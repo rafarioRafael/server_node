@@ -1,2 +1,5 @@
-"# server_node" 
-Servidor em nodejs
+# Servidor em NodeJS
+
+> Status: Completo 💋
+
+## Servidor utilizando NodeJS, Express e um arquivo JSON como banco de dados.
